@@ -120,6 +120,10 @@ To activate the rules, the "validateData(deviceRole, variable, data)" function s
    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Test Simulation Environment
+
+![5b924384-d616-48a5-821d-b5c90477e4f4](https://user-images.githubusercontent.com/36114345/235371154-cda52b84-3d12-4acd-b9c0-4763153c2d7b.png)
+
 
 <!-- CONTACT -->
 ## Contact
