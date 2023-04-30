@@ -126,6 +126,6 @@ To activate the rules, the "validateData(deviceRole, variable, data)" function s
 
 Çağatay ÖZATA - [https://www.linkedin.com/in/cagatayozata/](https://www.linkedin.com/in/cagatayozata/) - mail@cagatayozata.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/cagatayozata/network_automation](https://github.com/cagatayozata/network_automation)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
